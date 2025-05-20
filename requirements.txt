@@ -1,0 +1,7 @@
+streamlit
+python-dateutil
+pandas
+numpy
+openai
+langchain
+python-dotenv

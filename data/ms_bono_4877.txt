@@ -1,0 +1,20 @@
+
+Issuer: Morgan Stanley Finance LLC
+Guaranteed by: Morgan Stanley
+
+Title: Worst of Fixed Coupon Auto-Callable RevConsSM due November 18, 2026
+CUSIP: 61776WF81
+ISIN: US61776WF814
+
+Maturity Date: November 18, 2026
+Issue Date: November 19, 2024
+
+Interest Rate: 12.98%
+Coupon Payment Frequency: Quarterly
+
+Underlying assets: YPF S.A. (ADS), Tesla Inc.
+
+Redemption Conditions: Callable quarterly if both underlyings are above initial levels.
+Downside Threshold: 50% of initial price
+
+Principal is at risk. Payment at maturity depends on worst performing underlying.
